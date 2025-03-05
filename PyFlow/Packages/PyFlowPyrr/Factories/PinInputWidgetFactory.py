@@ -7,7 +7,7 @@ from PyFlow.UI.Widgets.InputWidgets import *
 
 from PyFlow.UI.Widgets.QtSliders import valueBox, pyf_Slider
 
-from Qt import QtWidgets
+from qtpy import QtWidgets
 
 FLOAT_SINGLE_STEP = 0.01
 FLOAT_DECIMALS = 5
